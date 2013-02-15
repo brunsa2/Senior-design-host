@@ -1,0 +1,14 @@
+\version "2.10.33"
+
+\relative c'' {
+\override NoteHead #'color = #red 
+c1 \override NoteHead #'color = #red 
+cis1 \override NoteHead #'color = #red 
+d1 \override NoteHead #'color = #red 
+dis1 \override NoteHead #'color = #red 
+e1 \override NoteHead #'color = #red 
+f1 \override NoteHead #'color = #red 
+fis1 \override NoteHead #'color = #red 
+g1 \override NoteHead #'color = #red 
+gis1 
+}

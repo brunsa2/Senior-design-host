@@ -1,0 +1,47 @@
+<note_list>
+	<note start="0">
+		<duration>0.5</duration>
+		<frequency>16.35</frequency>
+		<volume>0.75</volume>
+	</note>
+	<note start="0">
+		<duration>0.5</duration>
+		<frequency>17.32</frequency>
+		<volume>0.75</volume>
+	</note>
+	<note start="0">
+		<duration>0.375</duration>
+		<frequency>18.35</frequency>
+		<volume>0.75</volume>
+	</note>
+	<note start="0">
+		<duration>0.375</duration>
+		<frequency>19.45</frequency>
+		<volume>0.75</volume>
+	</note>
+	<note start="0">
+		<duration>0.75</duration>
+		<frequency>20.6</frequency>
+		<volume>0.75</volume>
+	</note>
+	<note start="0">
+		<duration>0.875</duration>
+		<frequency>21.83</frequency>
+		<volume>0.75</volume>
+	</note>
+	<note start="0">
+		<duration>1</duration>
+		<frequency>23.12</frequency>
+		<volume>0.75</volume>
+	</note>
+	<note start="0">
+		<duration>1.125</duration>
+		<frequency>24.5</frequency>
+		<volume>0.75</volume>
+	</note>
+	<note start="0">
+		<duration>1.25</duration>
+		<frequency>25.96</frequency>
+		<volume>0.75</volume>
+	</note>
+</note_list>
